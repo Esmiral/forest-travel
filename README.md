@@ -7,7 +7,7 @@
     Оптимизация под декстоп
     Pixel Perfect
     
- [Онлайн демо](https://github.com/Esmiral/forest-travel.git)
+ [Онлайн демо](https://esmiral.github.io/forest-travel/)
 
 Тестировать локально
 
